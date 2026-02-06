@@ -6,7 +6,7 @@
   },
   "name": "ehri-omeka-plugin",
   "description": "EHRI Omeka Plugin =================",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "EhriDataPlugin.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
