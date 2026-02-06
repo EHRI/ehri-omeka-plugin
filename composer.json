@@ -1,7 +1,6 @@
 {
-    "require": {
-        "twig/twig": "~1.4",
-        "twig/extensions": "^1.5",
-        "rmccue/requests": ">=1.0"      
-    }
+    "name": "ehri/ehri-omeka-plugin",
+    "description": "A minimal Omeka plugin that adds a shortcode for embedding EHRI item data.",
+    "license": "EUPL-1.2",
+    "require": {}
 }
